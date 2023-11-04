@@ -5,3 +5,4 @@ ftfy
 tensorboard
 Jinja2
 intel_extension_for_pytorch>=1.13
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
