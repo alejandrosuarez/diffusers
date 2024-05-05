@@ -6,3 +6,4 @@ ftfy
 tensorboard
 Jinja2
 git+https://github.com/huggingface/peft.git
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
