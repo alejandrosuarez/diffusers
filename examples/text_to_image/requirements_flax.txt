@@ -7,3 +7,5 @@ torchvision
 ftfy
 tensorboard
 Jinja2
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
