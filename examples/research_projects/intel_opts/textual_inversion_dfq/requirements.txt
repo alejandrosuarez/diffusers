@@ -1,6 +1,6 @@
 accelerate
 torchvision
-transformers>=4.25.0
+transformers>=4.38.0
 ftfy
 tensorboard
 modelcards
