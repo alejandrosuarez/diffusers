@@ -1,4 +1,4 @@
-transformers>=4.25.1
+transformers>=4.37.0
 flax
 optax
 torch
@@ -6,3 +6,4 @@ torchvision
 ftfy
 tensorboard
 Jinja2
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
